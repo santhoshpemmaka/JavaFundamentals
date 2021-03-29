@@ -1,3 +1,4 @@
+package fundamentals;
 public class IterationLoops {
     public static void main(String[] args) {
         String result = greetUser("Santhosh", "Pemmaka");

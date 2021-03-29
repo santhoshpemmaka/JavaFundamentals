@@ -1,3 +1,4 @@
+package fundamentals;
 public class ArithmeticExpression {
     public static void main(String[] args) {
         double result = (double) 10 / 3;
